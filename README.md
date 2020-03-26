@@ -8,14 +8,11 @@ I am very new to the coding world yet I am so pumped that I created this website
 ```Kerry's World
 Syntax highlighted code block
 
-[www.linkedin.com/kerryelarson]
+[Kerry's LinkedIn](www.linkedin.com/kerryelarson)
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+`Me trying out new format`
+**Kerry's New Website**
+_Kerry's Website_
 
 
 ### More Info
