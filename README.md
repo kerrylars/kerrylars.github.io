@@ -6,7 +6,7 @@
 I am very new to the coding world yet I am so pumped that I created this website. WOAH!
 
 ```Kerry's World
-Syntax highlighted code block
+
 
 [Kerry's LinkedIn](www.linkedin.com/kerryelarson)
 
