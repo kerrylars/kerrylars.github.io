@@ -7,7 +7,7 @@ Hi I'm Kerry I'm 19 and I am still currently learning how to code a website
 I am a finance major but coding has been a side hobby of mine. 
 I have been testing a lot of stuff out.
 
-[Kerry's LinkedIn](www.linkedin.com/kerryelarson)
+[Kerry's LinkedIn](www.linkedin.com/in/kerryelarson)
 **Kerry's Words**
 `New Code For Kerry's Page`
 _Me trying new things with my page_
