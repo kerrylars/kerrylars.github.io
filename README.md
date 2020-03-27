@@ -3,8 +3,7 @@
 
 
 ### About Me
-Hi I'm Kerry I'm 19 and I am still currently learning how to code a website
-I am a finance major but coding has been a side hobby of mine. 
+Hi I'm Kerry and I am still currently learning how to code a website
 I have been testing a lot of stuff out.
 
 [Kerry's LinkedIn](www.linkedin.com/in/kerryelarson)
@@ -19,6 +18,6 @@ _Me trying new things with my page_
 _This is so cool_
 `My new hobby is now coding`
 
-
+###Thank You For Visiting
 
 
