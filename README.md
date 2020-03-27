@@ -14,8 +14,11 @@ _Me trying new things with my page_
 
 ### Three Things About Me
 1. Finance Major
-2. Chi Omega Sorority
-3. Originally from California
+2. Chi Omega **XOXO**
+
+_This is so cool_
+`My new hobby is now coding`
+
 
 
 
