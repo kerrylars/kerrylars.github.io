@@ -18,6 +18,6 @@ _Me trying new things with my page_
 _This is so cool_
 `My new hobby is now coding`
 
-###Thank You For Visiting
+### Thank You For Visiting
 
-
+[Jan's Link](cis.utah.edu) 
